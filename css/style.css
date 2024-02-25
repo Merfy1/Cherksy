@@ -71,4 +71,67 @@ body {
   font-weight: 400;
   font-size: 17px;
   line-height: 27px;
+}
+
+.career {
+  padding: 120px 0;
+}
+.career-container {
+  max-width: 980px;
+  margin: 0 auto;
+}
+.career-hr {
+  display: flex;
+  align-items: center;
+  gap: 100px;
+}
+.career-play {
+  display: flex;
+  align-items: center;
+  gap: 100px;
+}
+.career-title {
+  font-family: "Recoleta", sans-serif;
+  font-weight: 600;
+  font-size: 48px;
+  color: #163A24;
+  line-height: 54px;
+  text-align: center;
+  margin-top: 115px;
+  margin-bottom: 65px;
+}
+.career-partners {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hr-title {
+  font-family: "Recoleta", sans-serif;
+  font-weight: 600;
+  font-size: 48px;
+  color: #163A24;
+  line-height: 54px;
+}
+.hr-title_sub {
+  color: #163A24;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+}
+
+.play-title {
+  font-family: "Recoleta", sans-serif;
+  font-weight: 600;
+  font-size: 48px;
+  color: #163A24;
+  line-height: 54px;
+}
+.play-title_sub {
+  color: #163A24;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
 }/*# sourceMappingURL=style.css.map */
