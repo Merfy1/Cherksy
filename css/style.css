@@ -277,4 +277,63 @@ body {
 
 .second {
   margin-bottom: -37px;
+}
+
+.stage {
+  padding: 115px 0 125px 0;
+  background-color: #F2EFE6;
+}
+.stage-title {
+  font-family: "Recoleta", sans-serif;
+  font-weight: 600;
+  font-size: 47px;
+  color: #163A24;
+  line-height: 54px;
+  text-align: center;
+  margin-bottom: 25px;
+}
+.stage-title_sub {
+  color: #163A24;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+}
+.stage-road {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.stage-road_item {
+  text-align: center;
+}
+.stage-road_text {
+  color: #163A24;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+}
+.stage-road_time {
+  font-family: "Recoleta", sans-serif;
+  font-weight: 600;
+  font-size: 28px;
+  color: #163A24;
+  line-height: 31.5px;
+}
+.stage-button {
+  width: 244px;
+  height: 52px;
+  background-color: #198C36;
+  border: none;
+  color: #FBFAF7;
+  border-radius: 160px;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
 }/*# sourceMappingURL=style.css.map */
