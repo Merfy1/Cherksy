@@ -371,4 +371,46 @@ body {
   font-family: "Noto Sans", sans-serif;
   font-weight: 400;
   font-size: 16px;
+}
+
+.subscribe {
+  background-color: #163A24;
+  padding-top: 20px;
+}
+.subscribe-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.subscribe-title {
+  font-family: "Recoleta", sans-serif;
+  font-weight: 600;
+  font-size: 48px;
+  color: #FBFAF7;
+  line-height: 54px;
+  margin-bottom: 26px;
+}
+.subscribe-title_sub {
+  color: #FBFAF7;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  margin-bottom: 18px;
+}
+.subscribe-button {
+  width: 258px;
+  height: 52px;
+  background-color: #FAB5A0;
+  border: none;
+  color: #163A24;
+  border-radius: 160px;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
 }/*# sourceMappingURL=style.css.map */
