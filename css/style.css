@@ -244,5 +244,37 @@ body {
   text-align: center;
 }
 .together-review {
+  margin-top: 18px;
   display: flex;
+  justify-content: space-between;
+  margin-bottom: 120px;
+}
+.together-review_item {
+  max-width: 353px;
+  background-color: #FBFAF7;
+  padding: 50px 40px 65px 40px;
+  box-shadow: 5px 5px 20px 0px rgb(233, 228, 213);
+}
+
+.review-title {
+  font-family: "Recoleta", sans-serif;
+  font-weight: 600;
+  font-size: 28px;
+  color: #163A24;
+  line-height: 31.5px;
+}
+.review-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  color: #163A24;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21.79px;
+  padding-left: 20px;
+}
+
+.second {
+  margin-bottom: -37px;
 }/*# sourceMappingURL=style.css.map */
