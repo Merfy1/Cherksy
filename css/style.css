@@ -413,4 +413,63 @@ body {
   justify-content: center;
   align-items: center;
   margin: 0 auto;
+}
+
+.signup {
+  padding: 55px 0;
+  background-color: #F2EFE6;
+}
+.signup-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.signup-title {
+  font-family: "Recoleta", sans-serif;
+  font-weight: 600;
+  font-size: 48px;
+  color: #163A24;
+  line-height: 54px;
+  margin-bottom: 26px;
+}
+.signup-title_sub {
+  color: #163A24;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+}
+.signup-feedback {
+  max-width: 590px;
+}
+.signup-feedback_input {
+  width: 555px;
+  height: 55px;
+  border-radius: 255px;
+  border: none;
+}
+.signup-feedback_button {
+  width: 111px;
+  height: 52px;
+  background-color: #15762E;
+  border: none;
+  color: #FBFAF7;
+  border-radius: 160px;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  margin-left: -75px;
+  position: absolute;
+}
+.signup-feedback_text {
+  color: #163A24;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+.green {
+  color: #198C36;
+  margin-left: 5px;
 }/*# sourceMappingURL=style.css.map */
