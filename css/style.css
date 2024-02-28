@@ -472,4 +472,50 @@ body {
 .green {
   color: #198C36;
   margin-left: 5px;
+}
+
+.footer {
+  padding: 40px 0 20px 0;
+}
+.footer-title {
+  font-family: "Recoleta", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  color: #163A24;
+  line-height: 36px;
+}
+.footer-title__sub {
+  color: #163A24;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+}
+.footer-social {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer-social__item {
+  display: flex;
+  gap: 14px;
+}
+.footer-policy {
+  display: flex;
+  justify-content: space-between;
+}
+.footer-policy-list {
+  display: flex;
+  gap: 14px;
+  color: #198C36;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19.07px;
+}
+
+.line {
+  margin-top: 45px;
+  margin-bottom: 25px;
+  border-bottom: 1px solid #F2EFE6;
 }/*# sourceMappingURL=style.css.map */
